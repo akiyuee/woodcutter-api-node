@@ -9,14 +9,12 @@ Responses will be returned in JSON format.
 <table>
     <tr>
       <td align="center"><a href="https://nodejs.org/"><img src="https://cdn.discordapp.com/emojis/932559343600156674.png" width="64" height="64" alt="."/><br/><sub><b>NodeJS</b></sub></a><br/></td>
-      <td align="center"><a href="https://expressjs.com/"><img src="https://cdn.discordapp.com/attachments/943101536605716500/943781541258080266/unknown.png" alt="." width="64" height="64"/><br/><sub><b>ExpressJS</b></sub></a><br/></td>
-      <td align="center"><a href="https://axios-http.com/"><img src="https://avatars.githubusercontent.com/u/32372333" width="64" height="64" alt="."/><br/><sub><b>Axios</b></sub></a><br/></td>
       <td align="center"><a href="https://heroku.com/"><img src="https://brand.heroku.com/static/media/heroku-logo-stroke.aa0b53be.svg" width="64" height="64" alt="."/><br/><sub><b>Heroku</b></sub></a><br/></td>
     </tr>
 </table>
 
 ### <img src="https://cdn.discordapp.com/emojis/932559343600156674.png?size=20" alt="."/> Usage example
-*Assuming you use Axios in NodeJS*  
+*Assuming you use Axios in NodeJS:*  
 ```js
 axios.get('https://woodcutter-api-node.herokuapp.com/api?input=query').then(function (response) {
     // handle success
@@ -34,6 +32,8 @@ axios.get('https://woodcutter-api-node.herokuapp.com/api?input=query').then(func
 ```
 
 ### <img src="https://cdn.discordapp.com/emojis/943101872548511775.png?size=20" alt="."/> Available queries  
+> I recommend you to use the `retard` query, since it is **the most frequently-updated array**.  
+
 | ID | Name | Description |
 | ------------- | ------------- | ------------ |
 | 1 | `smp` | Minecraft survival-multiplayer related phrases. |
