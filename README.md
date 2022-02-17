@@ -45,6 +45,8 @@ axios.get('SOON/api?input=query').then(function (response) {
 | 9 | `belucringe` | "Beluga is the creator of Discord-related content on Youtube" - Some woodcutter, probably. |
 
 ### Contributing
-You can help me contribute to the response database by submitting phrases in array-type.
+You can help me contribute to the response database by submitting phrases in array-type.  
+
+
 
 <p align="center">Made with ❤️ by Enderman.</p>
