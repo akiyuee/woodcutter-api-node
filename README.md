@@ -1,20 +1,21 @@
 # <img src="https://cdn.discordapp.com/emojis/932559342065049641.png?size=28" alt="."/> woodcutter-api-node
 Simple API endpoint that simulates Woodcutters' autistic and cuckery braincells. 
 
-### How to use?  
+### <img src="https://cdn.discordapp.com/emojis/943154284135079946.png?size=28" alt="."/> How to use?  
 The API is publicly accessible at `https://woodcutter-api-node.herokuapp.com`. Endpoint: `/api?input=YOUR_QUERY_HERE`.  
 Responses will be returned in JSON format.
 
-### Special thanks to:
+### Realized by:
 <table>
     <tr>
       <td align="center"><a href="https://nodejs.org/"><img src="https://cdn.discordapp.com/emojis/932559343600156674.png" width="64" height="64" alt="."/><br/><sub><b>NodeJS</b></sub></a><br/></td>
       <td align="center"><a href="https://expressjs.com/"><img src="https://cdn.discordapp.com/attachments/943101536605716500/943781541258080266/unknown.png" alt="." width="64" height="64"/><br/><sub><b>ExpressJS</b></sub></a><br/></td>
       <td align="center"><a href="https://axios-http.com/"><img src="https://avatars.githubusercontent.com/u/32372333" width="64" height="64" alt="."/><br/><sub><b>Axios</b></sub></a><br/></td>
+      <td align="center"><a href="https://heroku.com/"><img src="https://brand.heroku.com/static/media/heroku-logo-stroke.aa0b53be.svg" width="64" height="64" alt="."/><br/><sub><b>Heroku</b></sub></a><br/></td>
     </tr>
 </table>
 
-### Usage example
+### <img src="https://cdn.discordapp.com/emojis/932559343600156674.png?size=20" alt="."/> Usage example
 *Assuming you use Axios in NodeJS*  
 ```js
 axios.get('https://woodcutter-api-node.herokuapp.com/api?input=query').then(function (response) {
@@ -32,7 +33,7 @@ axios.get('https://woodcutter-api-node.herokuapp.com/api?input=query').then(func
 })
 ```
 
-### Available queries  
+### <img src="https://cdn.discordapp.com/emojis/943101872548511775.png?size=20" alt="."/> Available queries  
 | ID | Name | Description |
 | ------------- | ------------- | ------------ |
 | 1 | `smp` | Minecraft survival-multiplayer related phrases. |
@@ -45,9 +46,9 @@ axios.get('https://woodcutter-api-node.herokuapp.com/api?input=query').then(func
 | 8 | `rickcringe` | Imagine spamming a song from 1987 and still think it's funny. It is funny as how your brain malfunctions like a germ died from hand sanitizer. |
 | 9 | `belucringe` | "Beluga is the creator of Discord-related content on Youtube" - Some woodcutter, probably. |
 
-### Contributing
+### <img src="https://cdn.discordapp.com/emojis/943157377874665473.png?size=20" alt="."/> Contributing
 You can help me contribute to the response database by submitting phrases in array-type.  
 
 
-
+---
 <p align="center">Made with ❤️ by Enderman.</p>
