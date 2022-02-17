@@ -1,5 +1,5 @@
 # <img src="https://cdn.discordapp.com/emojis/932559342065049641.png?size=28" alt="."/> woodcutter-api-node
-Simple API endpoint that simulates Woodcutters' autistic and cuckery braincells.  
+Simple API endpoint that simulates Woodcutters' autistic and cuckery braincells. 
 
 ### How to use?  
 The API is publicly accessible at `Soon™`. The response will be returned in JSON type.
@@ -46,3 +46,5 @@ axios.get('SOON/api?input=query').then(function (response) {
 
 ### Contributing
 You can help me contribute to the response database by submitting phrases in array-type.
+
+<p align="center">Made with ❤️ by Enderman.</p>
