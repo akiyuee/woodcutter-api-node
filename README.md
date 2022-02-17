@@ -2,7 +2,8 @@
 Simple API endpoint that simulates Woodcutters' autistic and cuckery braincells. 
 
 ### How to use?  
-The API is publicly accessible at `Soon™`. The response will be returned in JSON type.
+The API is publicly accessible at `https://woodcutter-api-node.herokuapp.com`. Endpoint: `/api?input=YOUR_QUERY_HERE`.  
+Responses will be returned in JSON format.
 
 ### Special thanks to:
 <table>
@@ -16,7 +17,7 @@ The API is publicly accessible at `Soon™`. The response will be returned in JS
 ### Usage example
 *Assuming you use Axios in NodeJS*  
 ```js
-axios.get('SOON/api?input=query').then(function (response) {
+axios.get('https://woodcutter-api-node.herokuapp.com/api?input=query').then(function (response) {
     // handle success
     console.log(response.data);
     //
