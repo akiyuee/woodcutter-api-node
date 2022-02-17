@@ -1,8 +1,17 @@
-## woodcutter-api-node
+# <img src="https://cdn.discordapp.com/emojis/932559342065049641.png?size=28" alt="."/> woodcutter-api-node
 Simple API endpoint that simulates Woodcutters' autistic and cuckery braincells.  
 
 ### How to use?  
 The API is publicly accessible at `Soon™`. The response will be returned in JSON type.
+
+### Special thanks to:
+<table>
+    <tr>
+      <td align="center"><a href="https://nodejs.org/"><img src="https://cdn.discordapp.com/emojis/932559343600156674.png" width="64" height="64" alt="."/><br/><sub><b>NodeJS</b></sub></a><br/></td>
+      <td align="center"><a href="https://expressjs.com/"><img src="https://cdn.discordapp.com/attachments/943101536605716500/943781541258080266/unknown.png" alt="." width="64" height="64"/><br/><sub><b>ExpressJS</b></sub></a><br/></td>
+      <td align="center"><a href="https://axios-http.com/"><img src="https://avatars.githubusercontent.com/u/32372333" width="64" height="64" alt="."/><br/><sub><b>Axios</b></sub></a><br/></td>
+    </tr>
+</table>
 
 ### Usage example
 *Assuming you use Axios in NodeJS*  
